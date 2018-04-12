@@ -1,0 +1,21 @@
+{
+  "name": "etd-template",
+  "version": "1.0.0",
+  "description": "Angular Project Code Generator",
+  "main": "etd-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "Code",
+    "Generator"
+  ],
+  "author": "Moissane Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "inquirer": "^5.2.0",
+    "replace-in-file": "^3.4.0",
+    "shelljs": "^0.8.1"
+  }
+}
